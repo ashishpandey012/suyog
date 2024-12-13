@@ -1,0 +1,26 @@
+{
+  "name": "suyog-telematics-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "swiper": "^11.1.14",
+    "vue": "^3.5.10",
+    "vue-number-animation": "^2.0.2",
+    "vue-router": "^4.4.5",
+    "vue3-autocounter": "^1.0.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "naive-ui": "^2.40.2",
+    "vite": "^5.4.8"
+  }
+}
